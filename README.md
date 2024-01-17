@@ -14,5 +14,5 @@ Having successfully managed and motivated cross-functional teams, I excel at ove
 
 Communication is my forte, both verbal and written. I can articulate complex technical concepts to non-technical stakeholders with ease. If you're seeking not just a solution but a collaborative journey toward success, I'm here to embark on that adventure with you.
 
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaknverma)](https://github.com/anuraghazra/github-readme-stats)
+[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaknverma&show_icons=true&theme=dark)](https://github.com/deepaknverma)
 
