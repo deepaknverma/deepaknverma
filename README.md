@@ -1,6 +1,6 @@
 # Greetings!
 
-I am a Sydney-based dad who, serendipitously, found his way into the world of software engineering. It took me six years to uncover what truly fuels my passion, and interestingly, I resist being pigeonholed as a software engineer, cloud specialist, solution architect, or technologist.
+I am a Sydney-based dad who, serendipitously, found his way into the world of software engineering. It took me fifteen years to uncover what truly fuels my passion, and interestingly, I resist being pigeonholed as a software engineer, cloud specialist, solution architect, or technologist.
 
 In life, my focus lies on doing what I love. I thrive on constructing cost-effective, straightforward products designed to untangle complex business challenges. My enthusiasm for data is unbridled, driven by the belief that the solutions to all your business problems are intricately woven within the data your organization produces; you just need to know where to look.
 
