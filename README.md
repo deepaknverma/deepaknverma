@@ -16,7 +16,10 @@ Communication is my forte, both verbal and written. I can articulate complex tec
 
 [![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaknverma&show_icons=true&theme=dark)](https://github.com/deepaknverma)
 
+[![Deepak's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepaknverma)](https://github.com/deepaknverma)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/deepaknverma)
+
+
 
 
