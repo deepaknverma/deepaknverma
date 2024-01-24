@@ -1,4 +1,6 @@
-# Greetings!
+# Hola!
+
+<a href="https://app.daily.dev/deepaknverma"><img src="https://api.daily.dev/devcards/4cbd9d0ca3ce47a28b8ee5eb53cbaebc.png?r=5nn" width="400" alt="Deepak Verma's Dev Card"/></a>
 
 I am a Sydney-based dad who, serendipitously, found his way into the world of software engineering. It took me fifteen years to uncover what truly fuels my passion, and interestingly, I resist being pigeonholed as a software engineer, cloud specialist, solution architect, or technologist.
 
@@ -19,6 +21,8 @@ Communication is my forte, both verbal and written. I can articulate complex tec
 [![Deepak's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepaknverma)](https://github.com/deepaknverma)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/deepaknverma)
+
+
 
 
 
